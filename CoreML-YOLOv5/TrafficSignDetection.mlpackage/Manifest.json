@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "B172CAA6-DCE2-421F-ABCE-324F63582334": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "BBB7F759-FAB5-4C72-802D-A47725435240": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "FB642C16-C1B0-4E62-9D85-4B105F4F39D1": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "TrafficSignDetection .mlmodel",
+            "path": "com.apple.CoreML/TrafficSignDetection .mlmodel"
+        }
+    },
+    "rootModelIdentifier": "FB642C16-C1B0-4E62-9D85-4B105F4F39D1"
+}
